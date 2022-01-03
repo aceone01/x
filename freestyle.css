@@ -1,13 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Pushster&display=swap');
+
 .fr33{
 color:#f99220;
-font:bold 14pt rancho;
+font:bold 14pt Pushster;
 text-shadow: 2px 2px 9px #ff8600;
 }
 .free3{
-font:bold 14pt rancho;
+font:bold 14pt Pushster;
 }
 .fre3{
-  font-family: rancho;
+  font-family: Pushster;
   font-size: 14pt;
   font-weight: bold;
    animation: Color 4s linear infinite;
